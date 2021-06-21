@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Obi wan Kanobi",
+      "username": "Jedi",
+      "email": "melleniumfalcon@gmail.com",
+      "phone": "6666666666"
+    },
+    {
+      "name": "Master Yoda",
+      "username": "yodaiam",
+      "email": "yodaiam@gmail.com",
+      "phone": "1234567890",
+      "id": 2
+    },
+    {
+      "name": "Han Solo",
+      "username": "melleniumfalcon",
+      "email": "nevertellmetheodds@gmail.com",
+      "phone": "6548973120",
+      "id": 3
+    },
+    {
+      "name": "Princess Leia",
+      "username": "rebels",
+      "email": "rebelfleet@gmail.com",
+      "phone": "1235468970",
+      "id": 4
+    },
+    {
+      "name": "R2-D2",
+      "username": "comlink",
+      "email": "comeflywithme@gmail.com",
+      "phone": "1234578450",
+      "id": 5
+    },
+    {
+      "name": "Luke Skywalker",
+      "username": "farmboy",
+      "email": "tatooine@gmail.com",
+      "phone": "3215468790",
+      "id": 7
+    }
+  ]
+}
