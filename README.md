@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode. with server json-server as concurrently is used to run two different servers on different ports "npm start" on port 3000 and "npm run json-server" on port 3003\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser for the application.
-Open [http://localhost:3003/users](http://localhost:3003/users) to view the local db.jason file.
+Open [http://localhost:3003/users](http://localhost:3003/users) to view the local db.json file.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
